@@ -1,0 +1,27 @@
+{
+  "name": "nueva",
+  "version": "1.0.0",
+  "description": "Nueva api",
+  "main": "app.js",
+  "author": "JL Granda",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www",
+    "lint": "eslint --fix ."
+  },
+  "dependencies": {
+    "aws-sdk": "^2.224.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "morgan": "~1.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0",
+    "nodemon": "^1.17.3",
+    "prettier": "1.12.0"
+  }
+}
