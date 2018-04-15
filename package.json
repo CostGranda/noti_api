@@ -8,7 +8,8 @@
   "private": true,
   "scripts": {
     "start": "nodemon ./server.js",
-    "lint": "eslint --fix ."
+    "lint": "eslint . --fix",
+    "pretest": "npm run lint"
   },
   "dependencies": {
     "aws-sdk": "^2.224.1",
