@@ -35,7 +35,7 @@ allMaterias.forEach((materia) => {
         'No se cargar la materia.',
         materia.title,
         '. JSON: ',
-        JSON.stringify(err)
+        JSON.stringify(err),
       );
     } else {
       console.log('Archivo insertado', materia.nombre);
