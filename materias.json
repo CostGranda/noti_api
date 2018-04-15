@@ -1,0 +1,458 @@
+[
+  {
+    "codigo": "ING01221",
+    "nombre": "Trabajo de grado",
+    "preReq": "ING01211 ING01204",
+    "coReq": "Null",
+    "creditos": 7,
+    "nivel": 10
+  },
+  {
+    "codigo": "ING01227",
+    "nombre": "Profundización 3",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 10
+  },
+  {
+    "codigo": "ING01230",
+    "nombre": "Electiva 3",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 10
+  },
+  {
+    "codigo": "ING01211",
+    "nombre": "Gestión de proyectos de TI",
+    "preReq": "ING01208",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 9
+  },
+  {
+    "codigo": "ING01226",
+    "nombre": "Profundización 2",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 9
+  },
+  {
+    "codigo": "ING01228",
+    "nombre": "Electiva 1",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 9
+  },
+  {
+    "codigo": "ING01229",
+    "nombre": "Electiva 2",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 9
+  },
+  {
+    "codigo": "CBS00102",
+    "nombre": "Ética",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 1,
+    "nivel": 9
+  },
+  {
+    "codigo": "ING01206",
+    "nombre": "Programación distribuida y paralela",
+    "preReq": "ING01202 ING01189",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 8
+  },
+  {
+    "codigo": "ING01207",
+    "nombre": "Proyecto Integrador",
+    "preReq": "ING01194",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 8
+  },
+  {
+    "codigo": "ING01208",
+    "nombre": "Formulación y evaluación de proyectos de TI",
+    "preReq": "ING01205 ING01194",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 8
+  },
+  {
+    "codigo": "ING01209",
+    "nombre": "Gestión de redes y servicios",
+    "preReq": "ING01202",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 8
+  },
+  {
+    "codigo": "ING01225",
+    "nombre": "Profundización 1",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 8
+  },
+  {
+    "codigo": "ING01210",
+    "nombre": "Modelos y simulación",
+    "preReq": "ING01203",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 8
+  },
+  {
+    "codigo": "CBS00032",
+    "nombre": "Humanidades 2",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 8
+  },
+  {
+    "codigo": "ING01200",
+    "nombre": "Inteligencia Artificial",
+    "preReq": "ING01199 ING01186",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 7
+  },
+  {
+    "codigo": "ING01201",
+    "nombre": "Pruebas y gestión de la configuración",
+    "preReq": "ING01194",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 7
+  },
+  {
+    "codigo": "ING01205",
+    "nombre": "Sistemas y organizaciones",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 7
+  },
+  {
+    "codigo": "ING01202",
+    "nombre": "Redes de Comunicación",
+    "preReq": "ING01198",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 7
+  },
+  {
+    "codigo": "ING01203",
+    "nombre": "Investigación de operaciones",
+    "preReq": "ING01193 CBS00408",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 7
+  },
+  {
+    "codigo": "CAG00701",
+    "nombre": "Ecología",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 1,
+    "nivel": 7
+  },
+  {
+    "codigo": "ING01204",
+    "nombre": "Metodología de la Investigación",
+    "preReq": "ING01193",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 7
+  },
+  {
+    "codigo": "ING01194",
+    "nombre": "Proyecto de Construcción de SW",
+    "preReq": "ING01190",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 6
+  },
+  {
+    "codigo": "ING01195",
+    "nombre": "Bases de datos 2",
+    "preReq": "ING01188",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 6
+  },
+  {
+    "codigo": "ING01196",
+    "nombre": "Sistemas Operativos",
+    "preReq": "ING01191",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 6
+  },
+  {
+    "codigo": "ING01197",
+    "nombre": "Emprendimiento Empresarial TI",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 6
+  },
+  {
+    "codigo": "ING01198",
+    "nombre": "Teoría de la Información",
+    "preReq": "ING01193",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 6
+  },
+  {
+    "codigo": "ING01199",
+    "nombre": "Análisis numérico",
+    "preReq": "CBS00412 CBS00408",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 6
+  },
+  {
+    "codigo": "ING01189",
+    "nombre": "Taller de lenguajes de programación 2",
+    "preReq": "ING01186",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 5
+  },
+  {
+    "codigo": "ING01190",
+    "nombre": "Diseño de Software",
+    "preReq": "ING01188 ING01187",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 5
+  },
+  {
+    "codigo": "ING01191",
+    "nombre": "Arquitectura de Hardware",
+    "preReq": "ING00078",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 5
+  },
+  {
+    "codigo": "ING01192",
+    "nombre": "Teoría de lenguajes y compiladores",
+    "preReq": "ING01182",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 5
+  },
+  {
+    "codigo": "ING01193",
+    "nombre": "Estadística Aplicada",
+    "preReq": "CBS00382",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 5
+  },
+  {
+    "codigo": "ING01186",
+    "nombre": "Algoritmos y programación 4",
+    "preReq": "ING01183",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 4
+  },
+  {
+    "codigo": "ING01187",
+    "nombre": "Análisis de Software",
+    "preReq": "ING01185 ING01184",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 4
+  },
+  {
+    "codigo": "ING01188",
+    "nombre": "Bases de datos 1",
+    "preReq": "ING01182",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 4
+  },
+  {
+    "codigo": "CBS00412",
+    "nombre": "Ecuaciones diferenciales",
+    "preReq": "CBS00415",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 4
+  },
+  {
+    "codigo": "ING00078",
+    "nombre": "Electrónica digital",
+    "preReq": "CBS00079",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 4
+  },
+  {
+    "codigo": "ING01183",
+    "nombre": "Algoritmos y programación 3",
+    "preReq": "ING01181",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 3
+  },
+  {
+    "codigo": "ING01184",
+    "nombre": "Taller de lenguajes de programación 1",
+    "preReq": "ING01181",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 3
+  },
+  {
+    "codigo": "ING01185",
+    "nombre": "Semiótica informática",
+    "preReq": "ING01178",
+    "coReq": "CBS00408",
+    "creditos": 2,
+    "nivel": 3
+  },
+  {
+    "codigo": "CBS00415",
+    "nombre": "Cálculo de varias variables",
+    "preReq": "CBS00382",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 3
+  },
+  {
+    "codigo": "CBS00014",
+    "nombre": "Electricidad y magnetismo",
+    "preReq": "CBS00079",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 3
+  },
+  {
+    "codigo": "CBS00408",
+    "nombre": "Algebra lineal",
+    "preReq": "CBS00414",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 3
+  },
+  {
+    "codigo": "CBS00097",
+    "nombre": "Pedagogía constitucional",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 1,
+    "nivel": 3
+  },
+  {
+    "codigo": "ING01181",
+    "nombre": "Algoritmos y programación 2",
+    "preReq": "ING01179",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 2
+  },
+  {
+    "codigo": "ING01182",
+    "nombre": "Matemáticas discretas 2",
+    "preReq": "ING01180",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 2
+  },
+  {
+    "codigo": "CBS00079",
+    "nombre": "Física del Movimiento",
+    "preReq": "Null",
+    "coReq": "CBS00382",
+    "creditos": 4,
+    "nivel": 2
+  },
+  {
+    "codigo": "CBS00414",
+    "nombre": "Geometría vectorial",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 2
+  },
+  {
+    "codigo": "CBS00382",
+    "nombre": "Calculo Integral",
+    "preReq": "CBS00379",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 2
+  },
+  {
+    "codigo": "EFD00533",
+    "nombre": "Deporte arte y recreación",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 1,
+    "nivel": 2
+  },
+  {
+    "codigo": "ING01178",
+    "nombre": "Introducción al área profesional",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 1
+  },
+  {
+    "codigo": "ING01179",
+    "nombre": "Algoritmos y programación 1",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 1
+  },
+  {
+    "codigo": "CBS00030",
+    "nombre": "Lengua Materna",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 1
+  },
+  {
+    "codigo": "CBS00379",
+    "nombre": "Cálculo Diferencial",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 1
+  },
+  {
+    "codigo": "CBS00031",
+    "nombre": "Humanidades 1",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 1
+  },
+  {
+    "codigo": "ING01180",
+    "nombre": "Matemáticas discretas 1",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 1
+  }
+]

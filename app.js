@@ -20,6 +20,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 
+// Rutas
 app.use('/', indexRouter);
 
 // Error handler
