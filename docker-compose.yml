@@ -6,5 +6,7 @@ services:
     - "3000:3000"
     volumes:
     - .:/usr/src/app
-  environment: 
-    - NODE_ENV=docker_dev
+    networks: 
+      - backend
+networks: 
+  backend:
