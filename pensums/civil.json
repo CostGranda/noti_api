@@ -1,0 +1,506 @@
+[
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00412",
+    "nombre": "Ecuaciones Diferenciales",
+    "preReq": "CBS00382",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 5
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01115",
+    "nombre": "Mecánica de Fluidos",
+    "preReq": "CBS00410",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 5
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01134",
+    "nombre": "Mecánica De Solidos",
+    "preReq": "ING01116",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 5
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01135",
+    "nombre": "Construcción de Edificaciones",
+    "preReq": "ING01132",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 5
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01136",
+    "nombre": "Construcción de Vías",
+    "preReq": "ING00116",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 5
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01222",
+    "nombre": "Métodos Numéricos",
+    "preReq": "CBS00412",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 6
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01137",
+    "nombre": "Hidrología",
+    "preReq": "ING01133",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 6
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01005",
+    "nombre": "Mecánica de Suelos",
+    "preReq": "ING01131",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 6
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01138",
+    "nombre": "Análisis Clásico de Estructuras",
+    "preReq": "ING01134",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 6
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01124",
+    "nombre": "Costos y Programación de Obras Civiles",
+    "preReq": "ING01135",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 6
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01139",
+    "nombre": "Ingeniería de Transito",
+    "preReq": "90 Créditos",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 6
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00410",
+    "nombre": "Calculo Multivariado",
+    "preReq": "CBS00382",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 4
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00411",
+    "nombre": "Estadística y Probabilidades",
+    "preReq": "CBS00382",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 4
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01116",
+    "nombre": "Estática",
+    "preReq": "CBS00405",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 4
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01133",
+    "nombre": "Geomática",
+    "preReq": "ING01003",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 4
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING00116",
+    "nombre": "Diseño Geométrico de Vías",
+    "preReq": "ING01003",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 4
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "EFD00533",
+    "nombre": "Deporte, Arte y Recreación",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 1,
+    "nivel": 4
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00382",
+    "nombre": "Cálculo Integral",
+    "preReq": "CBS00379",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 3
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00409",
+    "nombre": "Física de Ondas y Óptica",
+    "preReq": "CBS00405",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 3
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01131",
+    "nombre": "Geología para Ingenieros",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 3
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01132",
+    "nombre": "Materiales De La Ingeniería",
+    "preReq": "CBS00407",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 3
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01003",
+    "nombre": "Topografía",
+    "preReq": "ING01113, CBS00375",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 3
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00379",
+    "nombre": "Cálculo Diferencial",
+    "preReq": "CBS00406",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 2
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00405",
+    "nombre": "Física del Movimiento",
+    "preReq": "CBS00406",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 2
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00408",
+    "nombre": "Álgebra Lineal",
+    "preReq": "CBS00406",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 2
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01114",
+    "nombre": "Fundamentos de Programación",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 2
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01113",
+    "nombre": "Dibujo Asistido por Computador",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 2
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00031",
+    "nombre": "Electiva Humanidades 1",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 2
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00406",
+    "nombre": "Algebra y Trigonometría",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 1
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00375",
+    "nombre": "Geometría",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 1
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01000",
+    "nombre": "Introducción al Área Profesional",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 1
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00407",
+    "nombre": "Química General",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 1
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00097",
+    "nombre": "Pedagogía Constitucional",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 1,
+    "nivel": 1
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00030",
+    "nombre": "Lengua Materna",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 1
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "Null",
+    "nombre": "Electiva Profesional 1",
+    "preReq": "130 Créditos",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 10
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "Null",
+    "nombre": "Electiva Profesional 2",
+    "preReq": "130 Créditos",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 10
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "Null",
+    "nombre": "Electiva Profesional 3",
+    "preReq": "130 Créditos",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 10
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01148",
+    "nombre": "Emprendimiento e Innovación",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 10
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01176",
+    "nombre": "Trabajo de Grado",
+    "preReq": "CBS00384 Y 116 Créditos",
+    "coReq": "Null",
+    "creditos": "Null",
+    "nivel": 10
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "Null",
+    "nombre": "Línea de Profundización 3",
+    "preReq": "Línea de Profundización 1",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 9
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "Null",
+    "nombre": "Línea de Profundización 4",
+    "preReq": "Línea de Profundización 2",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 9
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01145",
+    "nombre": "Acueductos y Alcantarillados",
+    "preReq": "ING01140",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 9
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01146",
+    "nombre": "Diseño de Estructuras en Hormigón 2",
+    "preReq": "ING01143",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 9
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01147",
+    "nombre": "Formulación y Evaluación de Proyectos",
+    "preReq": "CBS00384",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 9
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00102",
+    "nombre": "Ética",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 1,
+    "nivel": 9
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "Null",
+    "nombre": "Línea de Profundización 1",
+    "preReq": "120 Créditos",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 8
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "Null",
+    "nombre": "Línea de Profundización 2",
+    "preReq": "120 Créditos",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 8
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING00114",
+    "nombre": "Pavimentos",
+    "preReq": "ING01005",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 8
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01143",
+    "nombre": "Diseño de Estructuras en Hormigón 1",
+    "preReq": "ING01142",
+    "coReq": "Null",
+    "creditos": 4,
+    "nivel": 8
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01144",
+    "nombre": "Gestión Ambiental",
+    "preReq": "ING01135",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 8
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01140",
+    "nombre": "Hidráulica",
+    "preReq": "ING01115",
+    "coReq": "Null",
+    "creditos": 6,
+    "nivel": 7
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01141",
+    "nombre": "Cimentaciones",
+    "preReq": "ING01005",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 7
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01142",
+    "nombre": "Análisis Matricial de Estructuras",
+    "preReq": "ING010138",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 7
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "ING01127",
+    "nombre": "Interventoría de Obras Civiles",
+    "preReq": "ING01124",
+    "coReq": "Null",
+    "creditos": 3,
+    "nivel": 7
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00384",
+    "nombre": "Metodología de la Investigación",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 7
+  },
+  {
+    "carrera": "Ingeniería Civil",
+    "codigo": "CBS00032",
+    "nombre": "Electiva Humanidades 2",
+    "preReq": "Null",
+    "coReq": "Null",
+    "creditos": 2,
+    "nivel": 7
+  }
+]

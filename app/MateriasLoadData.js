@@ -15,12 +15,12 @@ AWS.config.update({
 const docCliente = new AWS.DynamoDB.DocumentClient();
 console.log('Importando materias en DynamoDB');
 
-const allMaterias = JSON.parse(fs.readFileSync('materias.json', 'utf8'));
+const allMaterias = JSON.parse(fs.readFileSync('civil.json', 'utf8'));
 allMaterias.forEach((materia) => {
   const params = {
     TableName: 'Materias',
     Item: {
-      carrera: 'Ingeniería Informática',
+      carrera: materia.carrera,
       codigo: materia.codigo,
       nombre: materia.nombre,
       preReq: materia.preReq,

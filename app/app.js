@@ -3,7 +3,7 @@ const cookieParser = require('cookie-parser');
 const logger = require('morgan');
 const compress = require('compression');
 const bugsnag = require('bugsnag');
-const indexRouter = require('./routes/index');
+const indexRouter = require('./routes/materias.route');
 
 bugsnag.register(process.env.BUGSNAG_API);
 const app = express();
