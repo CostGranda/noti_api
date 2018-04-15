@@ -1,4 +1,4 @@
-const Materia = require('../config/aws').DocumentClient;
+const Materia = require('../../config/aws').DocumentClient;
 
 const def = { TableName: 'Materias' };
 
