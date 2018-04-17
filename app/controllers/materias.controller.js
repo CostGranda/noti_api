@@ -35,7 +35,7 @@ exports.getByCarrera = (req, res, next) => {
 
 exports.getByIndex = (req, res, next) => {
   if (!req.body.codigo) {
-    return next();
+    next();
   }
   const params = {
     TableName: 'Pensums',
