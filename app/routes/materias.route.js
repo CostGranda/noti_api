@@ -3,6 +3,6 @@ const materias = require('../controllers/materias.controller');
 
 const router = express.Router();
 
-router.get('/', materias.getAll);
-
+router.get('/', materias.getByCarrera);
+router.get('/materia', materias.getByIndex);
 module.exports = router;
