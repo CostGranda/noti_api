@@ -15,10 +15,12 @@ AWS.config.update({
 const docCliente = new AWS.DynamoDB.DocumentClient();
 console.log('Importando materias en DynamoDB');
 
-const allMaterias = JSON.parse(fs.readFileSync('civil.json', 'utf8'));
+const allMaterias = JSON.parse(
+  fs.readFileSync('../pensums/informatica.json', 'utf8')
+);
 allMaterias.forEach((materia) => {
   const params = {
-    TableName: 'Materias',
+    TableName: 'Pensums',
     Item: {
       carrera: materia.carrera,
       codigo: materia.codigo,
@@ -27,6 +29,7 @@ allMaterias.forEach((materia) => {
       coReq: materia.coReq,
       creditos: materia.creditos,
       nivel: materia.nivel,
+      facultad: materia.facultad,
     },
   };
   docCliente.put(params, (err, data) => {
@@ -35,7 +38,7 @@ allMaterias.forEach((materia) => {
         'No se cargar la materia.',
         materia.title,
         '. JSON: ',
-        JSON.stringify(err),
+        JSON.stringify(err)
       );
     } else {
       console.log('Archivo insertado', materia.nombre);

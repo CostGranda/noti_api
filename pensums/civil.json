@@ -6,7 +6,8 @@
     "preReq": "CBS00382",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 5
+    "nivel": 5,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -15,7 +16,8 @@
     "preReq": "CBS00410",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 5
+    "nivel": 5,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -24,7 +26,8 @@
     "preReq": "ING01116",
     "coReq": "Null",
     "creditos": 4,
-    "nivel": 5
+    "nivel": 5,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -33,7 +36,8 @@
     "preReq": "ING01132",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 5
+    "nivel": 5,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -42,7 +46,8 @@
     "preReq": "ING00116",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 5
+    "nivel": 5,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -51,7 +56,8 @@
     "preReq": "CBS00412",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 6
+    "nivel": 6,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -60,7 +66,8 @@
     "preReq": "ING01133",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 6
+    "nivel": 6,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -69,7 +76,8 @@
     "preReq": "ING01131",
     "coReq": "Null",
     "creditos": 4,
-    "nivel": 6
+    "nivel": 6,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -78,7 +86,8 @@
     "preReq": "ING01134",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 6
+    "nivel": 6,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -87,7 +96,8 @@
     "preReq": "ING01135",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 6
+    "nivel": 6,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -96,7 +106,8 @@
     "preReq": "90 Créditos",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 6
+    "nivel": 6,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -105,7 +116,8 @@
     "preReq": "CBS00382",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 4
+    "nivel": 4,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -114,7 +126,8 @@
     "preReq": "CBS00382",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 4
+    "nivel": 4,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -123,7 +136,8 @@
     "preReq": "CBS00405",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 4
+    "nivel": 4,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -132,7 +146,8 @@
     "preReq": "ING01003",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 4
+    "nivel": 4,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -141,7 +156,8 @@
     "preReq": "ING01003",
     "coReq": "Null",
     "creditos": 4,
-    "nivel": 4
+    "nivel": 4,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -150,7 +166,8 @@
     "preReq": "Null",
     "coReq": "Null",
     "creditos": 1,
-    "nivel": 4
+    "nivel": 4,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -159,7 +176,8 @@
     "preReq": "CBS00379",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 3
+    "nivel": 3,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -168,7 +186,8 @@
     "preReq": "CBS00405",
     "coReq": "Null",
     "creditos": 4,
-    "nivel": 3
+    "nivel": 3,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -177,7 +196,8 @@
     "preReq": "Null",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 3
+    "nivel": 3,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -186,7 +206,8 @@
     "preReq": "CBS00407",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 3
+    "nivel": 3,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -195,7 +216,8 @@
     "preReq": "ING01113, CBS00375",
     "coReq": "Null",
     "creditos": 4,
-    "nivel": 3
+    "nivel": 3,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -204,7 +226,8 @@
     "preReq": "CBS00406",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 2
+    "nivel": 2,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -213,7 +236,8 @@
     "preReq": "CBS00406",
     "coReq": "Null",
     "creditos": 4,
-    "nivel": 2
+    "nivel": 2,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -222,7 +246,8 @@
     "preReq": "CBS00406",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 2
+    "nivel": 2,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -231,7 +256,8 @@
     "preReq": "Null",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 2
+    "nivel": 2,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -240,7 +266,8 @@
     "preReq": "Null",
     "coReq": "Null",
     "creditos": 2,
-    "nivel": 2
+    "nivel": 2,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -249,7 +276,8 @@
     "preReq": "Null",
     "coReq": "Null",
     "creditos": 2,
-    "nivel": 2
+    "nivel": 2,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -258,7 +286,8 @@
     "preReq": "Null",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 1
+    "nivel": 1,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -267,7 +296,8 @@
     "preReq": "Null",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 1
+    "nivel": 1,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -276,7 +306,8 @@
     "preReq": "Null",
     "coReq": "Null",
     "creditos": 2,
-    "nivel": 1
+    "nivel": 1,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -285,7 +316,8 @@
     "preReq": "Null",
     "coReq": "Null",
     "creditos": 4,
-    "nivel": 1
+    "nivel": 1,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -294,7 +326,8 @@
     "preReq": "Null",
     "coReq": "Null",
     "creditos": 1,
-    "nivel": 1
+    "nivel": 1,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -303,7 +336,8 @@
     "preReq": "Null",
     "coReq": "Null",
     "creditos": 2,
-    "nivel": 1
+    "nivel": 1,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -312,7 +346,8 @@
     "preReq": "130 Créditos",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 10
+    "nivel": 10,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -321,7 +356,8 @@
     "preReq": "130 Créditos",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 10
+    "nivel": 10,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -330,7 +366,8 @@
     "preReq": "130 Créditos",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 10
+    "nivel": 10,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -339,7 +376,8 @@
     "preReq": "Null",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 10
+    "nivel": 10,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -348,7 +386,8 @@
     "preReq": "CBS00384 Y 116 Créditos",
     "coReq": "Null",
     "creditos": "Null",
-    "nivel": 10
+    "nivel": 10,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -357,7 +396,8 @@
     "preReq": "Línea de Profundización 1",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 9
+    "nivel": 9,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -366,7 +406,8 @@
     "preReq": "Línea de Profundización 2",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 9
+    "nivel": 9,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -375,7 +416,8 @@
     "preReq": "ING01140",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 9
+    "nivel": 9,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -384,7 +426,8 @@
     "preReq": "ING01143",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 9
+    "nivel": 9,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -393,7 +436,8 @@
     "preReq": "CBS00384",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 9
+    "nivel": 9,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -402,7 +446,8 @@
     "preReq": "Null",
     "coReq": "Null",
     "creditos": 1,
-    "nivel": 9
+    "nivel": 9,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -411,7 +456,8 @@
     "preReq": "120 Créditos",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 8
+    "nivel": 8,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -420,7 +466,8 @@
     "preReq": "120 Créditos",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 8
+    "nivel": 8,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -429,7 +476,8 @@
     "preReq": "ING01005",
     "coReq": "Null",
     "creditos": 4,
-    "nivel": 8
+    "nivel": 8,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -438,7 +486,8 @@
     "preReq": "ING01142",
     "coReq": "Null",
     "creditos": 4,
-    "nivel": 8
+    "nivel": 8,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -447,7 +496,8 @@
     "preReq": "ING01135",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 8
+    "nivel": 8,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -456,7 +506,8 @@
     "preReq": "ING01115",
     "coReq": "Null",
     "creditos": 6,
-    "nivel": 7
+    "nivel": 7,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -465,7 +516,8 @@
     "preReq": "ING01005",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 7
+    "nivel": 7,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -474,7 +526,8 @@
     "preReq": "ING010138",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 7
+    "nivel": 7,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -483,7 +536,8 @@
     "preReq": "ING01124",
     "coReq": "Null",
     "creditos": 3,
-    "nivel": 7
+    "nivel": 7,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -492,7 +546,8 @@
     "preReq": "Null",
     "coReq": "Null",
     "creditos": 2,
-    "nivel": 7
+    "nivel": 7,
+    "facultad": "Ingeniería"
   },
   {
     "carrera": "Ingeniería Civil",
@@ -501,6 +556,7 @@
     "preReq": "Null",
     "coReq": "Null",
     "creditos": 2,
-    "nivel": 7
+    "nivel": 7,
+    "facultad": "Ingeniería"
   }
 ]

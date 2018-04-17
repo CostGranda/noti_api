@@ -1,4 +1,4 @@
-require('dotenv').config();
+require('dotenv').config({ path: '../.env' });
 const AWS = require('aws-sdk');
 
 const credentials = new AWS.SharedIniFileCredentials({
@@ -14,7 +14,7 @@ AWS.config.update({
 const dynamodb = new AWS.DynamoDB();
 
 const params = {
-  TableName: 'Materias',
+  TableName: 'Pensums',
   KeySchema: [
     { AttributeName: 'carrera', KeyType: 'HASH' },
     { AttributeName: 'codigo', KeyType: 'RANGE' },
@@ -24,8 +24,8 @@ const params = {
     { AttributeName: 'codigo', AttributeType: 'S' },
   ],
   ProvisionedThroughput: {
-    ReadCapacityUnits: 5,
-    WriteCapacityUnits: 5,
+    ReadCapacityUnits: 1,
+    WriteCapacityUnits: 1,
   },
 };
 
@@ -33,7 +33,7 @@ dynamodb.createTable(params, (err, data) => {
   if (err) {
     console.log(
       'No se puedo crear la tabla. Eror JSON: ',
-      JSON.stringify(err, null, 2),
+      JSON.stringify(err, null, 2)
     );
   } else {
     console.log('Tabla creada: ', JSON.stringify(data, null, 2));
