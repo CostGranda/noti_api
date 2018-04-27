@@ -33,7 +33,7 @@ dynamodb.createTable(params, (err, data) => {
   if (err) {
     console.log(
       'No se puedo crear la tabla. Eror JSON: ',
-      JSON.stringify(err, null, 2)
+      JSON.stringify(err, null, 2),
     );
   } else {
     console.log('Tabla creada: ', JSON.stringify(data, null, 2));
