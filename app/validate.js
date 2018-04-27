@@ -22,16 +22,12 @@ class Verifier {
 
   async verify(token) {
     try {
-      if (token === 'undefined') {
-        return { status: 401, msg: { message: 'Token invalido' } };
-      }
-      console.log(this.region);
       const sections = token.split('.');
       const { kid } = JSON.parse(jose.util.base64url.decode(sections[0]));
 
       const publicKeys = await getPublicKeys();
 
-      const myPublicKey = publicKeys.find((k) => k.kid === kid);
+      const myPublicKey = publicKeys.find(k => k.kid === kid);
 
       if (!myPublicKey) throw Error('Public key not found.');
 
@@ -43,20 +39,20 @@ class Verifier {
 
       if (!claims.iss.endsWith(this.userPoolId)) {
         return {
-          status: 403,
+          status: 401,
           msg: { message: 'Unknow issuer' },
         };
       }
       if (this.expectedClaims.aud !== appClientId) {
         return {
-          status: 403,
+          status: 401,
           msg: { message: 'Token was not issued for this audience' },
         };
       }
       const now = Math.floor(new Date() / 1000);
       if (now > claims.exp) {
         return {
-          status: 403,
+          status: 401,
           msg: { message: 'Token expired' },
         };
       }
@@ -65,8 +61,7 @@ class Verifier {
       }
       return { status: 200, user: claims.sub };
     } catch (e) {
-      console.log(e);
-      return { status: 401, msg: { message: 'Token invalido' } };
+      return { status: 401, msg: { message: 'Invalid token' } };
     }
   }
 }

@@ -4,12 +4,13 @@ const logger = require('morgan');
 const compress = require('compression');
 const bugsnag = require('bugsnag');
 const indexRouter = require('./routes/materias.route');
+const cors = require('cors');
 
 bugsnag.register(process.env.BUGSNAG_API);
 const app = express();
-
 // Para para que los errores Asincronos pasen al errorHandler
 app.use(bugsnag.requestHandler);
+app.use(cors());
 
 if (process.env.NODE_ENV === 'development') {
   app.use(logger('dev'));
